@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +27,11 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+
+# 100 Days Of Code - Log
+### Day 1: April 21, 2021
+
+**Today's Progress**: Completed 1 Kata codewars, Worked on Anki deck
+**Thoughts:** I am doing this challenge so I can create a habit, become a better developer, and more organized with my learning process. 
