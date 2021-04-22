@@ -33,5 +33,7 @@
 # 100 Days Of Code - Log
 ### Day 1: April 21, 2021
 
-**Today's Progress**: Completed 1 Kata codewars, Worked on Anki deck
+**Today's Progress**: Completed 1 Kata codewars, Worked on Anki deck and Open Source
+
+
 **Thoughts:** I am doing this challenge so I can create a habit, become a better developer, and more organized with my learning process. 
